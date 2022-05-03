@@ -138,6 +138,7 @@ public class Main {
 
                 } else {
                     System.out.println("Invalid Character");
+                    System.out.println("First Change");
                     continue;
                 }
             }
